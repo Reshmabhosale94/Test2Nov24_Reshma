@@ -13,7 +13,6 @@ int balance=1100;
 		
 	void display(){
 		System.out.println("Current balance is " + balance);
-		System.out.println("Commit 2");
 	}
 
 	public static void main (String[] args){
